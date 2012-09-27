@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.kixoft.demo.jo"
+	id		= "brianyang.com"
 	version 	= "0.1.00">
 
-	<name>al Horno</name>
+  <name>an example</name>
 
 	<description>
 		Ejemplos de Sencha - Kitchen Sink.
 	</description>
 
 	<author href="https://sites.google.com/site/roberkixote/"
-		email="roberto.pelaez.fernandez@gmail.com">
-		Roberto Pelaez Fernandez
+		email="brianyang1@gmail.com">
+		Brian Yang
 	</author>
 
 	<gap:platforms>
@@ -22,7 +22,7 @@
 		<gap:platform name="blackberry" project="widgets"/>
 	</gap:platforms>
 
-	<icon src="pollocampero.jpg" width="100" height="68" hover="true" gap:role="default" />
+	<icon src="" width="100" height="68" hover="true" gap:role="default" />
 
 	<feature name="http://api.phonegap.com/1.0/camera"/>
 	<feature name="http://api.phonegap.com/1.0/contacts"/>
